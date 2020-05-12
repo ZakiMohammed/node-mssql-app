@@ -1,0 +1,25 @@
+{
+  "name": "mssql-app",
+  "version": "1.0.0",
+  "description": "NodeJS MSSQL application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "npm test"
+  },
+  "keywords": [
+    "NodeJS",
+    "MSSQL"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "msnodesqlv8": "^1.1.4",
+    "mssql": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

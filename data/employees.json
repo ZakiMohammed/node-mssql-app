@@ -1,0 +1,106 @@
+[
+    {
+        "Code": "CT7207",
+        "Salary": 40000,
+        "Id": 1007,
+        "Job": "Manager",
+        "Department": "Operations",
+        "Name": "Bently Smith"
+    },
+    {
+        "Code": "CT7210",
+        "Salary": 80000,
+        "Id": 1010,
+        "Job": "Director",
+        "Department": "Operations",
+        "Name": "Isla Morris"
+    },
+    {
+        "Code": "CT7202",
+        "Salary": 15000,
+        "Id": 1002,
+        "Job": "Salesman",
+        "Department": "Sales",
+        "Name": "Allen Green"
+    },
+    {
+        "Code": "CT7208",
+        "Salary": 50000,
+        "Id": 1008,
+        "Job": "Analyst",
+        "Department": "Research",
+        "Name": "Xavier Campbell"
+    },
+    {
+        "Code": "CT7209",
+        "Salary": 50000,
+        "Id": 1009,
+        "Job": "Analyst",
+        "Department": "Research",
+        "Name": "Ethan Kumar"
+    },
+    {
+        "Code": "CT7201",
+        "Salary": 20000,
+        "Id": 1001,
+        "Job": "Clerk",
+        "Department": "Accounting",
+        "Name": "John Marshal"
+    },
+    {
+        "Code": "CT7205",
+        "Salary": 15000,
+        "Id": 1005,
+        "Job": "Salesman",
+        "Department": "Sales",
+        "Name": "Ethan Almaas"
+    },
+    {
+        "Code": "CT7211",
+        "Salary": 15000,
+        "Id": 1011,
+        "Job": "Salesman",
+        "Department": "Sales",
+        "Name": "Natalie Robinson"
+    },
+    {
+        "Code": "CT7212",
+        "Salary": 15000,
+        "Id": 1012,
+        "Job": "Salesman",
+        "Department": "Sales",
+        "Name": "Earl Rose"
+    },
+    {
+        "Code": "CT7206",
+        "Salary": 20000,
+        "Id": 1006,
+        "Job": "Clerk",
+        "Department": "Accounting",
+        "Name": "Ilija Seifert"
+    },
+    {
+        "Code": "CT7204",
+        "Salary": 20000,
+        "Id": 1004,
+        "Job": "Clerk",
+        "Department": "Accounting",
+        "Name": "Annette Burke"
+    },
+    {
+        "Code": "CT7203",
+        "Salary": 15000,
+        "Id": 1003,
+        "Job": "Salesman",
+        "Department": "Sales",
+        "Name": "Fernando Gordon"
+    },
+    {
+        "Code": "CT7213",
+        "Salary": 15000,
+        "Id": 1013,
+        "Job": "Salesman",
+        "Department": "Sales",
+        "Name": "Catherine Foster"
+    }
+]
