@@ -2,6 +2,15 @@
 
 Starter application to perform CRUD operation with MSSQL using NodeJS.
 ___
+Run application
+```
+// using nodemon
+npm run dev
+
+// without using nodemon
+npm start
+```
+Application can also be RUN by hitting F5 in VS code, it will create a default launch.json file. Keep the default setting and run the app by hitting F5.
 
 Packages Required
 ```
@@ -22,7 +31,7 @@ const config = {
     }
 };
 
-// Or using connectionString
+// or using connectionString
 const config = {
     connectionString: 'Driver=SQL Server;Server=ZAKIS-MSD\\SQLSERVER2017;Database=foo_db;Trusted_Connection=true;'
 };
